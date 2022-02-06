@@ -1,4 +1,4 @@
-![The TC Logo]("https://github.com/BradChandler/tc-fetch/blob/main/public/Portfolio-Logo.png")
+![The TC Logo](https://github.com/BradChandler/tc-fetch/blob/main/public/Portfolio-Logo.png)
 # Try-Catch-Fetch
 
 This project provides a simple wrapper around the browser-side ```fetch``` library.
