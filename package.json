@@ -1,6 +1,6 @@
 {
   "name": "tc-fetch",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Fetch wrappers for front-end data fetching with the fetch library",
   "main": "index.js",
   "scripts": {
