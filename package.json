@@ -4,7 +4,8 @@
   "description": "Fetch wrappers for front-end data fetching with the fetch library",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "patch": "npm version patch"
   },
   "repository": {
     "type": "git",

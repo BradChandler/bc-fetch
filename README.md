@@ -9,7 +9,8 @@ It provides status code checking and full promise library usage while forwarding
 import tcFetch from 'tc-fetch';    
 // or    
 // import { tcGet, tcPost, tcPut, tcDelete } from 'tc-fetch';    
-... const yourFunction = async () => {    
+... 
+const yourFunction = async () => {    
   try {    
     // all request types will resolve, with any JSON response parsed const    
     res = await tcFetch.tcGet('URL_PATH');    
