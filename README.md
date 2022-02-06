@@ -1,5 +1,4 @@
-![The TC Logo](https://github.com/BradChandler/tc-fetch/blob/main/public/Portfolio-Logo.png)
-# Try-Catch-Fetch
+# ![The TC Logo](https://github.com/BradChandler/tc-fetch/blob/main/public/Portfolio-Logo.png)  Try-Catch-Fetch# 
 
 This project provides a simple wrapper around the browser-side ```fetch``` library.
 It provides status code checking and full promise library usage while forwarding the status code and text back to your code, making it safe and simple to use Try-Catch logic around the request.
